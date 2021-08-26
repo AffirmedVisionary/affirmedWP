@@ -1,0 +1,5 @@
+---
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/charhzrd/affirmedvisionary.com
+https://ridbay.medium.com/how-to-deploy-private-github-repositories-to-cpanel-ef5493df8d9f

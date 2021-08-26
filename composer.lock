@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cebb4bdb4b7e330a249e05579aeac0ec",
+    "content-hash": "0c4d985cf69b835e0508e02be9313e7b",
     "packages": [
         {
             "name": "composer/installers",
@@ -957,6 +957,42 @@
             "time": "2021-02-19T12:13:01+00:00"
         },
         {
+            "name": "tiptopcoder/elementor-pro",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tiptopcoder/elementor-pro.git",
+                "reference": "dd62b3d82b35dfdb739ed1295818dad026dc2dd8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tiptopcoder/elementor-pro/zipball/dd62b3d82b35dfdb739ed1295818dad026dc2dd8",
+                "reference": "dd62b3d82b35dfdb739ed1295818dad026dc2dd8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "default-branch": true,
+            "type": "wordpress-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Elementor.com",
+                    "homepage": "https://elementor.com"
+                }
+            ],
+            "description": "Elementor Pro mirror for those using composer to manage Wordpress dependencies",
+            "support": {
+                "issues": "https://github.com/tiptopcoder/elementor-pro/issues",
+                "source": "https://github.com/tiptopcoder/elementor-pro/tree/master"
+            },
+            "time": "2020-04-19T22:52:28+00:00"
+        },
+        {
             "name": "vlucas/phpdotenv",
             "version": "v5.3.0",
             "source": {
@@ -1583,6 +1619,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "tiptopcoder/elementor-pro": 20,
         "roave/security-advisories": 20
     },
     "prefer-stable": true,

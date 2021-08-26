@@ -40,7 +40,6 @@
     "roots/wordpress": "5.8",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/elementor": "3.3.0",
     "wpackagist-plugin/sendwp": "1.0.3",
     "wpackagist-plugin/login-logout-menu": "1.3.0",
     "wpackagist-plugin/nav-menu-roles": "2.0.1",
